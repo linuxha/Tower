@@ -1,9 +1,8 @@
 # LEDTower
+<img align="left" src="images/Tower.png" alt="4 colored LED Tower">
 ESP32 controlling a 24v R/Y/G/Bl LED Tower via MQTT
 
-<img align="left" src="images/Tower.png" alt="4 colored LED Tower">
 I wrote this state machine a few years ago as a proof of concept but didn't build the tower. So now  I'm trying to learn more about the use of AI in various projects and Tower is one of those projects to use. I'm no expert with the new AI code tools and boy am I learning a lot! I do know how to write the code to accomplish this program. This is another experiment with Copilot, Gemini, ChatGPT 4, Bard and Huggin Face. I was only accepting the ChatGPT generated code as the others are not correct but I've since switched to using Github Copilot Pro. I'm paying for the Github Copilot Pro subscription (as opposed to the Github Pro subscription) so I can get more proficient with AIs. By paying for the subscription I get more tokens and the AI seems to remember a lot more of earlier chats (less hallucinations). I'll experiment with different prompts and requiments to see if I can get the others working better. The requirements below are part of what I used in the first attempts. Using only requirements doesn't seem to work as well as a text description.
-
 <br clear="left"/>
 
 ## VS Code
