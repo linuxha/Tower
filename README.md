@@ -1,9 +1,7 @@
-# LEDTower
+# ![4 colored LED Tower](images/Thumb-Tower.png) LEDTower
 ESP32 controlling a 24v R/Y/G/Bl LED Tower via MQTT
 
-I wrote this state machine a few years ago as a prrof of concept. Didn't build the tower. So now  I'm trying to learn more about the use of AI in various projects. I'm no expert with the new code bots and boy am I learning a lot! I do know how to write the code to accomplish this program. This is another experiment with Copilot, Gemini, ChatGPT 4, Bard and Huggin Face. I was only accepting the ChatGPT generated code as the others are not correct but I've since switched to using Github Copilot Pro. I'm paying for subscription so I can get more proficient with AIs. I'll experiment with different prompts and requiments to see if I can get the others working better. The requirements below are part of what I used in the first attempts.
-
-![4 colored LED Tower](images/Tower.png)
+![4 colored LED Tower](images/Tower.png) I wrote this state machine a few years ago as a prrof of concept. Didn't build the tower. So now  I'm trying to learn more about the use of AI in various projects. I'm no expert with the new code bots and boy am I learning a lot! I do know how to write the code to accomplish this program. This is another experiment with Copilot, Gemini, ChatGPT 4, Bard and Huggin Face. I was only accepting the ChatGPT generated code as the others are not correct but I've since switched to using Github Copilot Pro. I'm paying for subscription so I can get more proficient with AIs. I'll experiment with different prompts and requiments to see if I can get the others working better. The requirements below are part of what I used in the first attempts.
 
 # Initial requirements
 
