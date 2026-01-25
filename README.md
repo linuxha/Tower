@@ -1,7 +1,13 @@
-# ![4 colored LED Tower](images/Thumb-Tower.png) LEDTower
+# LEDTower
 ESP32 controlling a 24v R/Y/G/Bl LED Tower via MQTT
 
-![4 colored LED Tower](images/Tower.png) I wrote this state machine a few years ago as a prrof of concept. Didn't build the tower. So now  I'm trying to learn more about the use of AI in various projects. I'm no expert with the new code bots and boy am I learning a lot! I do know how to write the code to accomplish this program. This is another experiment with Copilot, Gemini, ChatGPT 4, Bard and Huggin Face. I was only accepting the ChatGPT generated code as the others are not correct but I've since switched to using Github Copilot Pro. I'm paying for subscription so I can get more proficient with AIs. I'll experiment with different prompts and requiments to see if I can get the others working better. The requirements below are part of what I used in the first attempts.
+<img src="images/Tower.png" alt="4 colored LED Tower" style="float: right; margin: 0px 0px 15px 15px; width: 150px;"> I wrote this state machine a few years ago as a proof of concept. Didn't build the tower. So now  I'm trying to learn more about the use of AI in various projects. I'm no expert with the new code bots and boy am I learning a lot! I do know how to write the code to accomplish this program. This is another experiment with Copilot, Gemini, ChatGPT 4, Bard and Huggin Face. I was only accepting the ChatGPT generated code as the others are not correct but I've since switched to using Github Copilot Pro. I'm paying for subscription so I can get more proficient with AIs. I'll experiment with different prompts and requiments to see if I can get the others working better. The requirements below are part of what I used in the first attempts.
+
+<img src="https://example.com/your-image.jpg" alt="Description of image" style="float: right; margin: 0px 0px 15px 15px; width: 150px;">
+
+This is the text that will wrap around the image. You can add several lines of text here to see the wrapping effect in action. The text flows around the image because we applied the `float: right;` style to the image element. The margins help prevent the text from touching the image directly, making it more readable.
+
+Continue adding more descriptive text here. The wrapping effect is a common design pattern used in many web pages and platforms that allow HTML and CSS customization.
 
 # Initial requirements
 
